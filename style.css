@@ -1,0 +1,39 @@
+body {
+	background-color: #00000;
+}
+
+
+
+h1 {
+	margin:0 0 15px 0;
+	padding: 0 0 17px 0;
+	font-size: 45px;
+	font-weight: bold;
+	letter-spacing: -2px; 
+	border-bottom: 1px solid #999
+}
+
+
+ #Education,#Skills,#Experience,#Hobbies,#Refernces{
+  display: inline;
+  float:left;
+  margin-right: 10px;
+  background-color: black;
+  height: 150px;
+  width: 100px;
+  border-right:solid;
+  font-size: 10px;
+  position: relative;
+  overflow: auto;
+}
+
+
+.topics1,.topics2,.topics3,.topics4,.topics5{
+  clear:both;
+  overflow: auto;
+  font-weight: bold;
+  background-color: white;
+}
+
+
+
